@@ -1,0 +1,9 @@
+C:\Users\heyangming\Desktop\RTU\Guolian.RTUDataQueryService\bin\Debug\netcoreapp3.1\Guolian.RTUDataQueryService.deps.json
+C:\Users\heyangming\Desktop\RTU\Guolian.RTUDataQueryService\bin\Debug\netcoreapp3.1\Guolian.RTUDataQueryService.dll
+C:\Users\heyangming\Desktop\RTU\Guolian.RTUDataQueryService\obj\Debug\netcoreapp3.1\Guolian.RTUDataQueryService.AssemblyInfoInputs.cache
+C:\Users\heyangming\Desktop\RTU\Guolian.RTUDataQueryService\obj\Debug\netcoreapp3.1\Guolian.RTUDataQueryService.AssemblyInfo.cs
+C:\Users\heyangming\Desktop\RTU\Guolian.RTUDataQueryService\obj\Debug\netcoreapp3.1\Guolian.RTUDataQueryService.csproj.CoreCompileInputs.cache
+C:\Users\heyangming\Desktop\RTU\Guolian.RTUDataQueryService\bin\Debug\netcoreapp3.1\Guolian.RTUDataQueryService.pdb
+C:\Users\heyangming\Desktop\RTU\Guolian.RTUDataQueryService\obj\Debug\netcoreapp3.1\Guolian.RTUDataQueryService.dll
+C:\Users\heyangming\Desktop\RTU\Guolian.RTUDataQueryService\obj\Debug\netcoreapp3.1\Guolian.RTUDataQueryService.pdb
+C:\Users\heyangming\Desktop\RTU\Guolian.RTUDataQueryService\obj\Debug\netcoreapp3.1\Guolian.RTUDataQueryService.csprojAssemblyReference.cache
